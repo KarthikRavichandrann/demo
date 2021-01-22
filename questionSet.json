@@ -15,6 +15,20 @@
 		"createdat": "2020-12-28T06:04:18.057Z",
 		"updatedat": "2020-12-28T06:04:18.057Z"
 	}, {
+		"id": 63,
+		"inst_id": "9",
+		"subgroup_id": "15",
+		"short_id": "qbank-909427f0-44ff-11eb-b516-fb57abab8df3",
+		"question_name": null,
+		"question_type": "1",
+		"question_level": "2",
+		"option": "[{\"optionss\":\"Motilal Nehru\",\"option_value\":\"null\"},{\"optionss\":\"Subhash Chandra Bose\",\"option_value\":\"true\"},{\"optionss\":\"Jawaharlal Nehru\",\"option_value\":\"null\"}]",
+		"correct_answer": "Subhash Chandra Bose",
+		"answer_exp": "Sample ",
+		"description": "<strong>&#160;Who of the following presided the historic Lahore session of 1929 in which demand of Poorna Swaraj was raised on the bank of river Ravi?</strong><br>",
+		"createdat": "2020-12-28T06:04:18.057Z",
+		"updatedat": "2020-12-28T06:04:18.057Z"
+	}, {
 		"id": 65,
 		"inst_id": "9",
 		"subgroup_id": "15",
